@@ -1,0 +1,78 @@
+html { 
+  background: url(puede.png); 
+}
+
+h1 {
+  font-family: Bookman, URW Bookman L, serif;
+  text-align: center;
+  font-size: 50px;
+  color: white;
+  box-shadow: 1px 1px 50px #000;  
+}
+
+h2{
+  font-family: Bookman, URW Bookman L, serif;
+  text-align: center;
+  font-size: 20px;
+  color: white; 
+ }
+  
+h3{
+  font-family: Bookman, URW Bookman L, serif;
+  text-align: center;
+  font-size: 30px;
+  color: white; 
+}
+p{
+  text-align: center;
+  font-size: 20px;
+  color: black; 
+}
+#boton {
+  position: absolute;
+  cursor: pointer;
+  line-height: 30px;
+  left: 608px;
+  bottom: 90px;
+  width: 150px;
+  height: 35px;
+  text-align: center;
+  background: rgba(223, 225, 223, 0.5);
+  box-shadow: 1px 1px 50px #000; 
+   border-radius: 10%;  
+
+}
+#nopi {
+  left: 180px;
+  position: absolute;
+  cursor: pointer;
+  line-height: 30px;
+  bottom: 90px;
+  width: 150px;
+  height: 35px;
+  text-align: center;
+  background: rgba(223, 225, 223, 0.5);
+  box-shadow: 1px 1px 50px #000; 
+   border-radius: 10%;  
+
+}
+#sipi {
+  right: 180px;
+  position: absolute;
+  cursor: pointer;
+  line-height: 30px;
+  bottom: 90px;
+  width: 150px;
+  height: 35px;
+  text-align: center;
+  background: rgba(223, 225, 223, 0.5);
+  box-shadow: 1px 1px 50px #000; 
+  border-radius: 10%;  
+
+}
+
+a {
+  font-color:white;
+  font-family: 'Open Sans Condensed', sans-serif;
+  font-size: 15px;
+}
