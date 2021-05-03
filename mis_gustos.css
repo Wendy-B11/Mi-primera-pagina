@@ -1,5 +1,5 @@
 html { 
-  background: url(ww.png); 
+  background: url(city.png); 
 }
 
 h1 {
@@ -38,7 +38,7 @@ p{
   width: 150px;
   height: 35px;
   text-align: center;
-  background: rgba(223, 225, 223, 0.5);
+  background: rgba(223, 225, 223, 0.7);
   box-shadow: 1px 1px 50px #2D5762; 
    border-radius: 10%;  
 
@@ -52,7 +52,7 @@ p{
   width: 150px;
   height: 35px;
   text-align: center;
-  background: rgba(223, 225, 223, 0.5);
+  background: rgba(223, 225, 223, 0.7);
   box-shadow: 1px 1px 50px #2D5762; 
    border-radius: 10%;  
 
@@ -66,7 +66,7 @@ p{
   width: 150px;
   height: 35px;
   text-align: center;
-  background: rgba(223, 225, 223, 0.5);
+  background: rgba(223, 225, 223, 0.7);
   box-shadow: 1px 1px 50px #2D5762; 
   border-radius: 10%;  
 
@@ -78,21 +78,11 @@ a {
   font-size: 15px;
 }
 
-#circulo{
-  position: absolute;
-  border-radius: 50%;
-  height: 282px;
-  width: 282px;
-  left:70px;
-  top: 160px;
-  background: rgba(255, 255, 255, 0.58);
-  box-shadow: 1px 1px 50px #2D5762;
 
-}
 #rectangulo{
   position: absolute;
   height: 282px;
-  width: 882px;
+  left:70px;
   right:70px;
   top: 160px;
   background: rgba(255, 255, 255, 0.58);
