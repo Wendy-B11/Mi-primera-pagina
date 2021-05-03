@@ -1,15 +1,14 @@
 html { 
-  background: url(city.png); 
+  background: url(../image/puede.png); 
 }
 
 h1 {
-  left: 300px;
   font-family: Bookman, URW Bookman L, serif;
   text-align: center;
   font-size: 50px;
   color: white;
-  text-shadow: 10px 10px 50px #000;
-  }
+  box-shadow: 1px 1px 50px #000;  
+}
 
 h2{
   font-family: Bookman, URW Bookman L, serif;
@@ -34,12 +33,12 @@ p{
   cursor: pointer;
   line-height: 30px;
   left: 608px;
-  bottom: 50px;
+  bottom: 90px;
   width: 150px;
   height: 35px;
   text-align: center;
-  background: rgba(223, 225, 223, 0.7);
-  box-shadow: 1px 1px 50px #2D5762; 
+  background: rgba(223, 225, 223, 0.5);
+  box-shadow: 1px 1px 50px #000; 
    border-radius: 10%;  
 
 }
@@ -48,12 +47,12 @@ p{
   position: absolute;
   cursor: pointer;
   line-height: 30px;
-  bottom: 50px;
+  bottom: 90px;
   width: 150px;
   height: 35px;
   text-align: center;
-  background: rgba(223, 225, 223, 0.7);
-  box-shadow: 1px 1px 50px #2D5762; 
+  background: rgba(223, 225, 223, 0.5);
+  box-shadow: 1px 1px 50px #000; 
    border-radius: 10%;  
 
 }
@@ -62,12 +61,12 @@ p{
   position: absolute;
   cursor: pointer;
   line-height: 30px;
-  bottom: 50px;
+  bottom: 90px;
   width: 150px;
   height: 35px;
   text-align: center;
-  background: rgba(223, 225, 223, 0.7);
-  box-shadow: 1px 1px 50px #2D5762; 
+  background: rgba(223, 225, 223, 0.5);
+  box-shadow: 1px 1px 50px #000; 
   border-radius: 10%;  
 
 }
@@ -77,16 +76,3 @@ a {
   font-family: 'Open Sans Condensed', sans-serif;
   font-size: 15px;
 }
-
-
-#rectangulo{
-  position: absolute;
-  height: 282px;
-  left:70px;
-  right:70px;
-  top: 160px;
-  background: rgba(255, 255, 255, 0.58);
-  box-shadow: 1px 1px 50px #2D5762;
-
-}
-
